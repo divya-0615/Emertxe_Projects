@@ -1,6 +1,8 @@
 # Maharashtrian_Kitchen
 
-Built as a mini-project to practice **C programming concepts** such as `switch-case`, `do-while` loops, conditional statements, input validation, and restaurant billing logic.
+A menu-driven restaurant billing system developed in **C** that simulates the ordering experience of a traditional Maharashtrian restaurant. This enables users to select food items, enter quantities, place multiple orders in a single session, and automatically generates the final bill with GST.
+
+This mini project was created to strengthen core C programming concepts, including **switch-case**, **loops**, **conditional statements**, **input validation**, and **basic billing calculations** through a practical real-world application.
 
 # Aamchi Maharashtrian Kitchen – Restaurant Billing System
 
