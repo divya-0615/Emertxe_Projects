@@ -1,4 +1,4 @@
-# Mini_Project_Maharashtrian_Kitchen
+# Maharashtrian_Kitchen
 
 Built as a mini-project to practice **C programming concepts** such as `switch-case`, `do-while` loops, conditional statements, input validation, and restaurant billing logic.
 
