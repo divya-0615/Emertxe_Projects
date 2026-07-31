@@ -74,7 +74,6 @@ Mini_Project_Maharashtrian_Kitchen/
 │
 ├── maharashtrian_kitchen.c
 ├── README.md
-└── output.png (optional)
 ```
 
 ---
